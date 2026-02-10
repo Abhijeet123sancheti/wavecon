@@ -33,6 +33,7 @@ Power BI | DAX | Advanced Excel | Data Modeling
 
 💻Live Presentation [PPT on YouTube](https://www.youtube.com/watch?v=h0Ro3L-jns0&t=6s)
 [Live Dashboard](https://github.com/Abhijeet123sancheti/wavecon/blob/main/Wavecon_dashboard_analysis1.pbit)
+[Power Bi Web Services](https://app.powerbi.com/view?r=eyJrIjoiMmI5N2ZlY2UtYzZkMi00NWUxLWFhNzItOWMzY2QwYWQ3YzZiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=ReportSection16b73cde20cf3ed17b51)
 
 
 Special thanks to Codebasics and AtliQ Technologies for this valuable learning experience 🙏
