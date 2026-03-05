@@ -1,5 +1,4 @@
 I’m excited to share my latest analytics project where I analyzed the business impact of 5G implementation for one of India’s leading telecom providers, Wavecon Telecom 📊
-(Part of the #codebasicsvirtualinternship)
 
 📌 Project Overview
 Analyzed 9 months of data (Jan–Sep 2022) across 15 major Indian cities to assess the impact of the 5G rollout launched in May 2022.
